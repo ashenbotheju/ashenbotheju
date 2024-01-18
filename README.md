@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashen Botheju</h1>
-(https://www.canva.com/design/DAF6NLLDB78/kzH38AnI9-XHhWat0CpReg/view?utm_content=DAF6NLLDB78&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<img src="[pic_trulli.jpg](https://www.canva.com/design/DAF6NLLDB78/kzH38AnI9-XHhWat0CpReg/view?utm_content=DAF6NLLDB78&utm_campaign=designshare&utm_medium=link&utm_source=editor)" alt="image">
 <h3 align="center">I'm a passionate Information and Communication Technology student with a knack for programming. 🚀</h3>
 
 - 🌱 I’m currently learning **Software Engineering**
