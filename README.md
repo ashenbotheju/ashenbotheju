@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashen Botheju</h1>
 <h3 align="center">I'm a passionate Information and Communication Technology student with a knack for programming. 🚀</h3>
 
-- 🌱 I’m currently learning **Software development**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **ashenbothejugakb@gmail.com**
 
